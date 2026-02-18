@@ -32,3 +32,8 @@ Agar aapko mere projects pasand aaye ya aap koi feedback dena chahte hain:
 
 ---
 *Created with ❤️ by Shivam-X*
+### 🧮 Shivam X Calculator
+Ek simple aur fast calculator app.
+* **Platform:** Android (APK)
+* **Download:** [Click Here to Download](./SHIVAM%20Calculator.apk)
+* 
