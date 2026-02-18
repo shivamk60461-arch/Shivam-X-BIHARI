@@ -28,7 +28,7 @@ Main in tools ka use karta hoon apne projects banane ke liye:
 ## 📬 Contact Me
 Agar aapko mere projects pasand aaye ya aap koi feedback dena chahte hain:
 * **GitHub:** [@shivamk60461-arch](https://github.com/shivamk60461-arch)
-* **Status:** Available for collaboration!
+* **Status:** https://www.instagram.com/gmrsk31?igsh=anVxdGNqeHNwdXdj
 
 ---
 *Created with ❤️ by Shivam-X*
